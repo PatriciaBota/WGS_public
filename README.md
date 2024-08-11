@@ -30,8 +30,6 @@ To answer these questions, we developed the WGS metric and evaluated it against 
 
 ## Results
 
-### Key Findings:
-
 - **RQ1:** HRV and EDA features using Euclidean distance proved most effective for measuring physiological synchrony in emotion recognition.
 - **RQ1:** Metrics like Pearson, Spearman, and Cosine similarity showed reduced performance in morphology space.
 - **RQ2:** The WGS approach outperformed both intrapersonal and average pooling methods in recognizing arousal and valence, achieving an M-F1 score of approximately 72.15% for arousal and 81.16% for valence on the AMIGOS dataset.
