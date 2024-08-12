@@ -1,7 +1,7 @@
 # WGS_Public
 A Group Synchrony Approach for Emotion Recognition Using Physiological Signals
 
-## Overview
+## Motivation
 
 Humans are inherently social beings, spending significant time in collective activities at work, for leisure, or at home. In these settings, emotions are often influenced by the group and its members. While group emotion recognition using audiovisual sources is well-studied, the use of unobtrusive physiological signals for recognizing emotions within group interactions remains underexplored.
 
