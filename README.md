@@ -18,6 +18,8 @@ Throughout this work, we explore the following research questions:
 
 To answer these questions, we developed the WGS metric and evaluated it against traditional machine learning and intrapersonal methods. Our analysis covers over eight data representations and eight synchronization metrics, comparing **Interpersonal vs. Intrapersonal** synchrony, and **WGS: Weighted vs. Average Pooling** approaches.
 
+For detailed methodology and technical specifications, refer to the scientific paper available [here](https://ieeexplore.ieee.org/document/10097567).
+
 <p align="center">
   <img src="WGS_structure.png" alt="WGS_structure" width="400"/>
 </p>
