@@ -1,0 +1,27 @@
+cff-version: 1.0.3
+message: "If you use this work, please cite the following publication:"
+title: "Group synchrony for emotion recognition using physiological signals"
+authors:
+  - family-names: "Bota"
+    given-names: "Patrícia"
+  - family-names: "Zhang"
+    given-names: "Tianyi"
+  - family-names: "El Ali"
+    given-names: "Abdallah"
+  - family-names: "Fred"
+    given-names: "Ana"
+  - family-names: "da Silva"
+    given-names: "Hugo Plácido"
+  - family-names: "Cesar"
+    given-names: "Pablo"
+date-released: 2023-01-01
+version: "1.0"
+doi: "10.1109/TAFFC.2023.1234567"  # Replace this with the actual DOI if available.
+url: "https://doi.org/10.1109/TAFFC.2023.1234567"  # Replace this with the actual URL if available.
+repository-code: "https://github.com/PatriciaBota/EmotiphAI_public"  # If relevant
+keywords:
+  - "group synchrony"
+  - "emotion recognition"
+  - "physiological signals"
+  - "affective computing"
+license: "CC-BY-4.0"
